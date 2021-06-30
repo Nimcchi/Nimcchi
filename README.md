@@ -1,0 +1,3 @@
+- Currently learning Python, Javascript & HTML
+- Looking to learn C++ & Actionscript
+- Nice to meet you!
